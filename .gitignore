@@ -19,6 +19,7 @@
 *.csproj.user
 *.suo
 /bin/
+/purchaseREquest.specs/obj/
 /obj/
 
 # Git
@@ -27,3 +28,4 @@
 # Vim swap files
 *.swp
 *~
+purchaseREquest.specs/purchaseREquest.specs/obj/
