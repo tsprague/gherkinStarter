@@ -1,0 +1,29 @@
+# NodeJS
+/node_modules/
+
+# Bower
+/libraries/bower/
+
+#NuGet
+/libraries/nuget/*/
+
+#DefinitivelyTyped
+/typings/
+
+# Output folders
+/debug/*
+!/debug/web.config
+/release/
+
+# Visual Studio
+*.csproj.user
+*.suo
+/bin/
+/obj/
+
+# Git
+*.orig
+
+# Vim swap files
+*.swp
+*~
